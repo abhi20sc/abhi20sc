@@ -1,4 +1,4 @@
-# Hi, I'm Abhijith Pradeep 👋
+# Hi, I'm Abhijith Pradeep 
 
 🎓 BEng Systems Engineering at the University of Warwick (First Class Honours)
 
