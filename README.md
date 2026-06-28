@@ -24,7 +24,7 @@ I'm interested in machine learning, quantitative research, computer vision, and 
 ## Research
 
 📄 *Baseline vs Exploratory Deep Learning Video Models for Driver Drowsiness Detection: A Multi-Dataset Evaluation*  
-Accepted at ICECET 2026.
+Accepted at ICECET 2026 — forthcoming in IEEE Xplore. ([Code & details](https://github.com/abhi20sc/drowsiness-detection-deep-learning))
 
 ## Connect
 
